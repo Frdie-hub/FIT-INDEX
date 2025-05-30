@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: bmi_ant.BMI_ANT
+Class-Path: lib/mysql-connector-j-9.0.0.jar lib/AbsoluteLayout.jar
+
